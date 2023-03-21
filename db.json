@@ -1,6 +1,5 @@
 {
   "userDetails": [
-    [
       {
         "username": "coreyschafer",
         "title": "Be Present",
@@ -14,10 +13,9 @@
         ],
         "id": 1
       }
-    ]
   ],
   "users": [
-    [
+    
       {
         "name": "om sorde",
         "avatar": "https://lh3.googleusercontent.com/ogw/AAEL6sh6UOv_pfDOadWogtN4BX4NO88o72Gi8mQlGLW_=s32-c-mo",
@@ -25,6 +23,6 @@
         "password": "123456",
         "id": 1
       }
-    ]
+
   ]
 }
